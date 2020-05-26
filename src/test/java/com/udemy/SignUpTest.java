@@ -39,7 +39,7 @@ public class SignUpTest {
 
         WebElement emailField = driver.findElement(By.id("email--1"));
         emailField.clear();
-        emailField.sendKeys("test.nester@gmail.com");
+        emailField.sendKeys("test.nester+1@gmail.com");
 
         WebElement pwField = driver.findElement(By.id("password"));
         pwField.clear();
