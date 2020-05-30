@@ -1,0 +1,12 @@
+Index: .idea/dictionaries/lsmog.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/dictionaries/lsmog.xml	(date 1590354819064)
++++ .idea/dictionaries/lsmog.xml	(date 1590354819064)
+@@ -0,0 +1,3 @@
++<component name="ProjectDictionaryState">
++  <dictionary name="lsmog" />
++</component>
+\ No newline at end of file

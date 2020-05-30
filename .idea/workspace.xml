@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a876914a-e3ef-47a7-b6c4-99e5a223215b" name="Default Changelist" comment="added locators">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.udemy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/SignUpTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/udemy/SignUpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UdemyWeb/SignUp tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UdemyWeb/SignUp tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UdemyWeb/SignUp tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UdemyWeb/SignUp tests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/udemy/SignUpTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/udemy/SignUpTest.class" afterDir="false" />
+    </list>
+    <list id="b362ae3c-612b-4977-8b17-ea5275fae373" name="Revert &quot;AutoSignUp_Udemu_version_1&quot;" comment="Revert &quot;AutoSignUp_Udemu_version_1&quot;&#10;&#10;This reverts commit 19f20fae">
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c2WJxPBvaza4eJZzX2KDwYPiS1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lsmog\IdeaProjects\com.udemy\src\test\java\com\udemy" />
+      <recent name="C:\Users\lsmog\IdeaProjects\com.udemy\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.udemy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lsmog\IdeaProjects\com.udemy\src\test\java\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.SignUpTest">
+    <configuration name="SignUpTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.SignUpTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTestNew.signUpWithValidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.SignUpTestNew" />
+      <option name="METHOD_NAME" value="signUpWithValidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SignUpTest" />
+        <item itemvalue="TestNG.SignUpTestNew.signUpWithValidCredentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a876914a-e3ef-47a7-b6c4-99e5a223215b" name="Default Changelist" comment="" />
+      <created>1589727101682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589727101682</updated>
+    </task>
+    <task id="LOCAL-00001" summary="AutoSignUp_Udemu_version_1">
+      <created>1590354763776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590354763776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="AutoSignUp_Udemu_version_1">
+      <created>1590355264632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590355264632</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added locators">
+      <created>1590836272064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590836272064</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AutoSignUp_Udemu_version_1" />
+    <MESSAGE value="AutoSignUp_Udemy_version_1" />
+    <MESSAGE value="added locators" />
+    <option name="LAST_COMMIT_MESSAGE" value="added locators" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589926413304">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="734" y="342" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1589926413304" />
+    <state x="740" y="197" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1589802492670">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="740" y="197" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1589802492670" />
+    <state x="774" y="409" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589930330459">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="774" y="409" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/62.0.1858.1080@62.0.1858.1080" timestamp="1589930330459" />
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590347493926">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590347493926" />
+    <state x="862" y="334" key="#com.intellij.tools.ToolEditorDialog" timestamp="1590349625259">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="862" y="334" key="#com.intellij.tools.ToolEditorDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590349625259" />
+    <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1590836608924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="771" y="295" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1590836608924" />
+    <state x="815" y="460" key="Github.CreateGistDialog" timestamp="1590527382462">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="815" y="460" key="Github.CreateGistDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590527382462" />
+    <state x="864" y="438" key="Github.ShareDialog" timestamp="1590836121621">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="864" y="438" key="Github.ShareDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590836121621" />
+    <state width="1815" height="259" key="GridCell.Tab.0.bottom" timestamp="1590387182130">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="259" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1590387182110" />
+    <state width="1815" height="259" key="GridCell.Tab.0.center" timestamp="1590387181997">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="259" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1590387181997" />
+    <state width="1815" height="259" key="GridCell.Tab.0.left" timestamp="1590387181745">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="259" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1590387181745" />
+    <state width="1815" height="259" key="GridCell.Tab.0.right" timestamp="1590387181997">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="259" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1590387181997" />
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1589954544623">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1589954544623" />
+    <state width="1815" height="364" key="GridCell.Tab.1.center" timestamp="1589954544623">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1589954544623" />
+    <state width="1815" height="364" key="GridCell.Tab.1.left" timestamp="1589954544623">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1589954544623" />
+    <state width="1815" height="364" key="GridCell.Tab.1.right" timestamp="1589954544623">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1589954544623" />
+    <state x="240" y="97" key="MergeDialog" timestamp="1590836359790">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="240" y="97" key="MergeDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590836359790" />
+    <state x="872" y="406" width="237" height="282" key="MultipleFileMergeDialog" timestamp="1590836480624">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="872" y="406" width="237" height="282" key="MultipleFileMergeDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590836480624" />
+    <state x="595" y="149" key="SettingsEditor" timestamp="1590352303244">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="595" y="149" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1590352303244" />
+    <state x="841" y="454" key="VCS.EditChangelistDialog" timestamp="1590355075678">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="841" y="454" key="VCS.EditChangelistDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590355075678" />
+    <state x="1005" y="212" width="672" height="677" key="run.anything.popup" timestamp="1589799049253">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1005" y="212" width="672" height="677" key="run.anything.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1589799049253" />
+  </component>
+</project>
