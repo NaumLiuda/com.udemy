@@ -7,58 +7,48 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a876914a-e3ef-47a7-b6c4-99e5a223215b" name="Default Changelist" comment="added locators">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.udemy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" />
+    <list default="true" id="a876914a-e3ef-47a7-b6c4-99e5a223215b" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/constants/HeaderSectionConsts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/pages/HeaderSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/pages/SearchResultsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/pages/SignupPopup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/testdata/UserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/udemy/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy-ui-tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/SignUpTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/udemy/SignUpTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/resources/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UdemyWeb/SignUp tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UdemyWeb/SignUp tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UdemyWeb/SignUp tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UdemyWeb/SignUp tests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/udemy/SignUpTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/udemy/SignUpTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UdemyWeb/SignUp tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UdemyWeb/SignUp tests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/SignUp tests.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/UdemyWeb/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/udemy/SignUpTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/testng.xml" afterDir="false" />
     </list>
     <list id="b362ae3c-612b-4977-8b17-ea5275fae373" name="Revert &quot;AutoSignUp_Udemu_version_1&quot;" comment="Revert &quot;AutoSignUp_Udemu_version_1&quot;&#10;&#10;This reverts commit 19f20fae">
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,19 +91,30 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/udemy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lsmog\IdeaProjects\com.udemy\src\test\java\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.udemy" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lsmog\IdeaProjects\com.udemy\src\test\java\com\udemy" />
       <recent name="C:\Users\lsmog\IdeaProjects\com.udemy\src\main\resources" />
+      <recent name="C:\Users\lsmog\IdeaProjects\com.udemy\src\test\java\resources" />
+      <recent name="C:\Users\lsmog\IdeaProjects\com.udemy\src\test\java\com\udemy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.udemy" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lsmog\IdeaProjects\com.udemy\src\test\java\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.udemy" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -165,7 +166,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\lsmog\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -196,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590836272064</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="POM commit">
+      <created>1590923338829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590923338829</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,41 +277,70 @@
     <MESSAGE value="AutoSignUp_Udemu_version_1" />
     <MESSAGE value="AutoSignUp_Udemy_version_1" />
     <MESSAGE value="added locators" />
-    <option name="LAST_COMMIT_MESSAGE" value="added locators" />
+    <MESSAGE value="POM commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="734" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589926413304">
+    <state x="583" y="198" width="816" height="729" key="#Intentions" timestamp="1591725346221">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="734" y="342" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1589926413304" />
-    <state x="740" y="197" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1589802492670">
+    <state x="583" y="198" width="816" height="729" key="#Intentions/62.0.1858.1080@62.0.1858.1080" timestamp="1591725346221" />
+    <state x="876" y="403" key="#Notifications" timestamp="1590923485090">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="740" y="197" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1589802492670" />
+    <state x="876" y="403" key="#Notifications/62.0.1858.1080@62.0.1858.1080" timestamp="1590923485090" />
+    <state x="583" y="181" key="#Plugins" timestamp="1590922396603">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="181" key="#Plugins/62.0.1858.1080@62.0.1858.1080" timestamp="1590922396603" />
+    <state x="471" y="114" key="#Project_Structure" timestamp="1590931741810">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="471" y="114" key="#Project_Structure/62.0.1858.1080@62.0.1858.1080" timestamp="1590931741810" />
+    <state x="445" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590922263386">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="445" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590922263386" />
+    <state x="734" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591617415616">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="734" y="342" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1591617415616" />
+    <state x="740" y="197" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1591617816010">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="740" y="197" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1591617816010" />
+    <state x="971" y="606" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591611429974">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="971" y="606" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1591611429974" />
     <state x="774" y="409" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589930330459">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="774" y="409" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/62.0.1858.1080@62.0.1858.1080" timestamp="1589930330459" />
-    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590347493926">
+    <state x="1090" y="563" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1591611431750">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590347493926" />
+    <state x="1090" y="563" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/62.0.1858.1080@62.0.1858.1080" timestamp="1591611431750" />
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591611624476">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1591611624476" />
     <state x="862" y="334" key="#com.intellij.tools.ToolEditorDialog" timestamp="1590349625259">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="862" y="334" key="#com.intellij.tools.ToolEditorDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590349625259" />
-    <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1590836608924">
+    <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1590922634160">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="771" y="295" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1590836608924" />
+    <state x="771" y="295" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1590922634160" />
     <state x="815" y="460" key="Github.CreateGistDialog" timestamp="1590527382462">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="815" y="460" key="Github.CreateGistDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590527382462" />
-    <state x="864" y="438" key="Github.ShareDialog" timestamp="1590836121621">
+    <state x="864" y="438" key="Github.ShareDialog" timestamp="1590837703315">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="864" y="438" key="Github.ShareDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590836121621" />
+    <state x="864" y="438" key="Github.ShareDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590837703315" />
     <state width="1815" height="259" key="GridCell.Tab.0.bottom" timestamp="1590387182130">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -352,6 +389,22 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="841" y="454" key="VCS.EditChangelistDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590355075678" />
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590923467143">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1590923467143" />
+    <state x="1022" y="323" key="chooseDestDirectoryDialog" timestamp="1591614691619">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1022" y="323" key="chooseDestDirectoryDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1591614691619" />
+    <state x="154" y="92" width="1674" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590922699331">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="92" width="1674" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590922699331" />
+    <state x="796" y="401" key="git4idea.rebase.GitRebaseDialog" timestamp="1590837414203">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="796" y="401" key="git4idea.rebase.GitRebaseDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590837414203" />
     <state x="1005" y="212" width="672" height="677" key="run.anything.popup" timestamp="1589799049253">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>

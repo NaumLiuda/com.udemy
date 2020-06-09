@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UdemyTests">
+    <test name="Registration with valid data">
+        <classes>
+            <class name="com.udemy.SignUpTest">
+                <methods>
+                    <include name="registrationWithValidData" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Login with valid data">
+        <classes>
+            <class name="com.udemy.LoginTest">
+                <methods>
+                    <include name = "loginUsingCookie" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Check categories list">
+        <classes>
+            <class name="com.udemy.CategoriesTest">
+                <methods>
+                    <include name = "checkListCategories" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Search test with Valid data">
+        <classes>
+            <class name="com.udemy.SearchTest">
+                <methods>
+                    <include name = "searchTestWithValidData" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

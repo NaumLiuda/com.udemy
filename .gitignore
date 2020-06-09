@@ -1,0 +1,4 @@
+.idea/
+.allure/
+.DS_Store
+*chromedriver
