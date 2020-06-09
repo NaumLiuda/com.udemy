@@ -1,0 +1,49 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 54.586 s <<< FAILURE! - in TestSuite
+com.udemy.SignUpTest.registrationWithValidData  Time elapsed: 12.184 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class=' loginbox-v4__header loginbox-v4__header--signup'] (tried for 9 second(s) with 500 milliseconds interval)
+	at com.udemy.SignUpTest.registrationWithValidData(SignUpTest.java:14)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class=' loginbox-v4__header loginbox-v4__header--signup']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I5ECM5Q', ip: '192.168.1.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\lsmog\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c78d83789eaf5a67d14ba0158825fa2d
+*** Element info: {Using=xpath, value=//div[@class=' loginbox-v4__header loginbox-v4__header--signup']}
+	at com.udemy.SignUpTest.registrationWithValidData(SignUpTest.java:14)
+
+com.udemy.LoginTest.loginUsingCookie  Time elapsed: 12.934 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='udlite-avatar udlite-heading-xl'] (tried for 9 second(s) with 500 milliseconds interval)
+	at com.udemy.LoginTest.loginUsingCookie(LoginTest.java:14)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='udlite-avatar udlite-heading-xl']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I5ECM5Q', ip: '192.168.1.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\lsmog\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64799}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a56a1823284f4239547c6a021edf2fb7
+*** Element info: {Using=xpath, value=//div[@class='udlite-avatar udlite-heading-xl']}
+	at com.udemy.LoginTest.loginUsingCookie(LoginTest.java:14)
+
+com.udemy.SearchTest.searchTestWithValidData  Time elapsed: 14.883 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: (//div[@class='course-card--main-content--3xEIw']/div)[1] (tried for 9 second(s) with 500 milliseconds interval)
+	at com.udemy.SearchTest.searchTestWithValidData(SearchTest.java:17)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"(//div[@class='course-card--main-content--3xEIw']/div)[1]"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I5ECM5Q', ip: '192.168.1.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\lsmog\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64895}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0351cb68d9bad8f8b2e809b632782e6a
+*** Element info: {Using=xpath, value=(//div[@class='course-card--main-content--3xEIw']/div)[1]}
+	at com.udemy.SearchTest.searchTestWithValidData(SearchTest.java:17)
+

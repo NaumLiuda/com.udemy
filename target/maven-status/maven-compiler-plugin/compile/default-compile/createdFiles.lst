@@ -1,0 +1,7 @@
+com\udemy\models\User.class
+com\udemy\pages\SearchResultsPage.class
+com\udemy\pages\HeaderSection.class
+com\udemy\constants\HeaderSectionConsts.class
+com\udemy\pages\HomePage.class
+com\udemy\testdata\UserData.class
+com\udemy\pages\SignupPopup.class

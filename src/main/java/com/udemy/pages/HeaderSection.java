@@ -20,13 +20,13 @@ public class HeaderSection {
     }
 
     By signupPopupButtonLocator = By.xpath("(//span[contains(text(),'Sign up')])[1]");
-    By userAvatarLocator = By.xpath("(//div[@aria-label='Nester Test'])[1]");
-    By searchFieldLocator = By.xpath("//input[@id='u132-search-form-autocomplete--4']");
+    By userAvatarLocator = By.xpath("//div[@class='udlite-avatar udlite-heading-xl']");
+    By searchFieldLocator = By.xpath("//input[@placeholder='Search for anything']");
     By searchFieldCoursesLocator = By.xpath("//form[@action='/courses/search/']//input");
     By categoryButtonLocator = By.xpath("//*[contains(text(),'Categories')]");
-    By categoryMainListLocator = By.xpath("//a[@aria-label='My profile']/div"); //-//ul[@aria-label='Categories']//following-sibling::span[@class='fx']
+    By categoryMainListLocator = By.xpath("//ul[@class='udlite-block-list list-menu--section--BZ3j9'])[1]//following-sibling::span[@class='udlite-block-list-item-content']");
 
-    public void openSignupPopup() {
+    public void openSignupForm() {
         wait.until(ExpectedConditions.visibilityOfElementLocated(signupPopupButtonLocator));
         WebElement signupPopupButton = driver.findElement(signupPopupButtonLocator);
         signupPopupButton.click();

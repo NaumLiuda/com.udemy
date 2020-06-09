@@ -11,7 +11,7 @@ public class LoginTest extends BaseTest {
 
         homePage.openHomePage();
         headerSection.setSessionCookie(cookie);
-        Assert.assertEquals(headerSection.getUserInitial(), "NT");
+        Assert.assertEquals(headerSection.getUserInitial(), "N");
 
     }
 }
