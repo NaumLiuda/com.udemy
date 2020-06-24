@@ -10,7 +10,7 @@ public class CategoriesTest extends BaseTest {
     public void checkCategoriesList() {
 
         homePage.openHomePage();
-        headerSection.openListOfCategories();
-        Assert.assertEquals(headerSection.getTitlesListOfCategories(), CATEGORYLIST);
+        homePage.openListOfCategories();
+        Assert.assertEquals(homePage.getTitlesListOfCategories(), CATEGORYLIST);
     }
 }

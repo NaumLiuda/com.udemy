@@ -10,13 +10,12 @@ public class SignUpTest extends BaseTest {
     @Test(description = "Registration with valid data")
     public void registrationWithValidData() {
         homePage.openHomePage();
-        headerSection.openSignupForm();
         Assert.assertEquals(signupForm.getSignupFormTitleText(), "Sign Up and Start Learning!");
         signupForm.fillNameField(basicUser.getName())
                 .fillEmailAddressField(basicUser.getEmail())
                 .fillPasswordField(basicUser.getPassword())
                 .submitForm();
-        Assert.assertEquals(headerSection.getUserInitial(), basicUser.getName().substring(0,1));
+        Assert.assertEquals(homePage.getUserInitial(), basicUser.getName().substring(0,1));
 
     }
 }

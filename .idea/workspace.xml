@@ -18,14 +18,24 @@
   <component name="ChangeListManager">
     <list default="true" id="a876914a-e3ef-47a7-b6c4-99e5a223215b" name="Default Changelist" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/models/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/pages/HeaderSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/pages/HeaderSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/pages/SignupPopup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/pages/SignupPopup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/pages/SearchResultsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/pages/SearchResultsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/pages/SignupForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/pages/SignupForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/testdata/UserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/testdata/UserData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/udemy/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/CategoriesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/udemy/CategoriesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/udemy/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/SignUpTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/udemy/SignUpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/udemy/models/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/pages/HeaderSection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/udemy/pages/HeaderSection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/pages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/pages/SignupPopup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/testdata/UserData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
-    <list id="b362ae3c-612b-4977-8b17-ea5275fae373" name="Revert &quot;AutoSignUp_Udemu_version_1&quot;" comment="Revert &quot;AutoSignUp_Udemu_version_1&quot;&#10;&#10;This reverts commit 19f20fae">
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
-    </list>
+    <list id="b362ae3c-612b-4977-8b17-ea5275fae373" name="Revert &quot;AutoSignUp_Udemu_version_1&quot;" comment="Revert &quot;AutoSignUp_Udemu_version_1&quot;&#10;&#10;This reverts commit 19f20fae" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -381,6 +391,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="796" y="401" key="git4idea.rebase.GitRebaseDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1590837414203" />
+    <state x="834" y="297" key="refactoring.ChangeSignatureDialog" timestamp="1592977075501">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="834" y="297" key="refactoring.ChangeSignatureDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1592977075501" />
     <state x="1005" y="212" width="672" height="677" key="run.anything.popup" timestamp="1589799049253">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>

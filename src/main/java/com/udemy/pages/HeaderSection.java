@@ -4,6 +4,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import java.util.ArrayList;
@@ -13,24 +15,24 @@ public class HeaderSection {
 
     private WebDriver driver;
     private WebDriverWait wait;
+    private Actions actions;
 
     public HeaderSection(WebDriver driver, WebDriverWait wait) {
         this.driver = driver;
         this.wait = wait;
+        PageFactory.initElements(this.driver, this);
+        actions = new Actions(driver);
     }
 
-    By signupPopupButtonLocator = By.xpath("(//span[contains(text(),'Sign up')])[1]");
+    By signupPopupButtonLocator = By.xpath("(//*[@data-purpose='header' or @role='navigation']//*[starts-with(text()), 'Sign']");
     By userAvatarLocator = By.xpath("//div[@class='udlite-avatar udlite-heading-xl']");
-    By searchFieldLocator = By.xpath("//input[@placeholder='Search for anything']");
+    By userLabelLocator = By.xpath("(//*[class='user-initials] or contains(@class, 'dropdown-button-avatar')])[1]");
+    By userEmailInProfileDropdownLocator = By.xpath("//*[contains(@class, 'user-profile-dropdown--email') or @class='a11 text-midnight-lighter ellipsis']");
+    By searchFieldLocator = By.xpath("//*[contains(@id, 'search-form-autocomplete') or @id='header-search-field']");
     By searchFieldCoursesLocator = By.xpath("//form[@action='/courses/search/']//input");
-    By categoryButtonLocator = By.xpath("//*[contains(text(),'Categories')]");
-    By categoryMainListLocator = By.xpath("//ul[@class='udlite-block-list list-menu--section--BZ3j9'])[1]//following-sibling::span[@class='udlite-block-list-item-content']");
+    By categoryButtonLocator = By.xpath("//*[@class='c_header__inner' or @data-purpose='header']//span[text(),'Categories']");
+    By categoryMainListLocator = By.xpath("//ul[contains(@class,'dropdown-meni__list--level-one') or contains(@class, 'list-menu--section')])[1]");
 
-    public void openSignupForm() {
-        wait.until(ExpectedConditions.visibilityOfElementLocated(signupPopupButtonLocator));
-        WebElement signupPopupButton = driver.findElement(signupPopupButtonLocator);
-        signupPopupButton.click();
-    }
 
     public String getUserInitial() {
         wait.until(ExpectedConditions.visibilityOfElementLocated(userAvatarLocator));

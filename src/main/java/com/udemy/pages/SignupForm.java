@@ -3,8 +3,11 @@ package com.udemy.pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
 import java.sql.Timestamp;
 
 public class SignupForm {
@@ -14,7 +17,20 @@ public class SignupForm {
     public SignupForm(WebDriver driver, WebDriverWait wait) {
         this.driver = driver;
         this.wait = wait;
+        PageFactory.initElements(driver,this);
     }
+
+    @FindBy(id ="id_fullname")
+    public WebElement nameField;
+
+    @FindBy(xpath="//input[@type='email']")
+    public WebElement emailField;
+
+    @FindBy(id ="password")
+    public WebElement passwordField;
+
+    @FindBy(xpath="//input[@value='Sign Up']")
+    public WebElement signupButton;
 
     By signupPopupTitleLocator = By.xpath("//div[@class=' loginbox-v4__header loginbox-v4__header--signup']");
     By nameFieldLocator = By.xpath("//input[@id='id_fullname']");
@@ -37,10 +53,9 @@ public class SignupForm {
         return this;
     }
 
-    public SignupForm fillEmailAddressField(String string) {
+    public SignupForm fillEmailAddressField(String email) {
         WebElement emailAddressField = driver.findElement(emailAddressFieldLocator);
-        emailAddressField.sendKeys(string);
-        System.out.println("Email = " + string);
+        emailAddressField.sendKeys(email);
         return this;
     }
 
